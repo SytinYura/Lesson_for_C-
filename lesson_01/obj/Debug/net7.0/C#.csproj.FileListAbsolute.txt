@@ -1,0 +1,15 @@
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Личное\GeekBrains\C#\bin\Debug\net7.0\C#.exe
+C:\Личное\GeekBrains\C#\bin\Debug\net7.0\C#.deps.json
+C:\Личное\GeekBrains\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Личное\GeekBrains\C#\bin\Debug\net7.0\C#.dll
+C:\Личное\GeekBrains\C#\bin\Debug\net7.0\C#.pdb
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.dll
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.pdb
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Личное\GeekBrains\C#\obj\Debug\net7.0\ref\C#.dll

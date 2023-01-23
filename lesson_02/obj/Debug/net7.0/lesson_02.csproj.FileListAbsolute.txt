@@ -1,0 +1,15 @@
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.csproj.AssemblyReference.cache
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.AssemblyInfoInputs.cache
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.AssemblyInfo.cs
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.csproj.CoreCompileInputs.cache
+C:\Личное\GeekBrains\C#\lesson_02\bin\Debug\net7.0\lesson_02.exe
+C:\Личное\GeekBrains\C#\lesson_02\bin\Debug\net7.0\lesson_02.deps.json
+C:\Личное\GeekBrains\C#\lesson_02\bin\Debug\net7.0\lesson_02.runtimeconfig.json
+C:\Личное\GeekBrains\C#\lesson_02\bin\Debug\net7.0\lesson_02.dll
+C:\Личное\GeekBrains\C#\lesson_02\bin\Debug\net7.0\lesson_02.pdb
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.dll
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\refint\lesson_02.dll
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.pdb
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\lesson_02.genruntimeconfig.cache
+C:\Личное\GeekBrains\C#\lesson_02\obj\Debug\net7.0\ref\lesson_02.dll

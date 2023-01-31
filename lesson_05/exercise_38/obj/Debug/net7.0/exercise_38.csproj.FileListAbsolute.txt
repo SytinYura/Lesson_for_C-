@@ -1,0 +1,15 @@
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\bin\Debug\net7.0\exercise_38.exe
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\bin\Debug\net7.0\exercise_38.deps.json
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\bin\Debug\net7.0\exercise_38.runtimeconfig.json
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\bin\Debug\net7.0\exercise_38.dll
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\bin\Debug\net7.0\exercise_38.pdb
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.csproj.AssemblyReference.cache
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.AssemblyInfoInputs.cache
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.AssemblyInfo.cs
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.csproj.CoreCompileInputs.cache
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.dll
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\refint\exercise_38.dll
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.pdb
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\exercise_38.genruntimeconfig.cache
+C:\Личное\GeekBrains\C#\lesson_05\exercise_38\obj\Debug\net7.0\ref\exercise_38.dll

@@ -31,11 +31,10 @@ int a = number1;
 Console.Write("Введи второе число: ");
 int number2 = int.Parse(Console.ReadLine()!);
 int b = number2;
-
-    if(a > b)
-        Console.WriteLine($"{number1} больше");
-    else
-        Console.WriteLine($"{number2} больше");
+if(a > b)
+    Console.WriteLine($"{number1} больше");
+else
+    Console.WriteLine($"{number2} больше");
 
 
 

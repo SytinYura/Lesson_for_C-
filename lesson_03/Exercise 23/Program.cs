@@ -17,6 +17,7 @@ void Cube(int[] cube)
   }
 }
 
+
 void PrintArry(int[] coll)
 {
   int count = coll.Length;

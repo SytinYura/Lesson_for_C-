@@ -11,7 +11,7 @@ Console.Write("Введите b2: ");
 var b2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите k2: ");
 var k2 = Convert.ToDouble(Console.ReadLine());
- 
+
 var x = -(b1 - b2) / (k1 - k2);
 var y = k1 * x + b1;
  

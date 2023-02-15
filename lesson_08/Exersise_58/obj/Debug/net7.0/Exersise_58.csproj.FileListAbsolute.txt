@@ -1,0 +1,5 @@
+C:\Личное\GeekBrains\C#\lesson_08\Exersise_58\obj\Debug\net7.0\Exersise_58.csproj.AssemblyReference.cache
+C:\Личное\GeekBrains\C#\lesson_08\Exersise_58\obj\Debug\net7.0\Exersise_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Личное\GeekBrains\C#\lesson_08\Exersise_58\obj\Debug\net7.0\Exersise_58.AssemblyInfoInputs.cache
+C:\Личное\GeekBrains\C#\lesson_08\Exersise_58\obj\Debug\net7.0\Exersise_58.AssemblyInfo.cs
+C:\Личное\GeekBrains\C#\lesson_08\Exersise_58\obj\Debug\net7.0\Exersise_58.csproj.CoreCompileInputs.cache
